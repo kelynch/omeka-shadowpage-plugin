@@ -36,3 +36,6 @@ And replace it with the following:
 
 - Save show.php and re-upload your custom theme.  On items that contain image files, shadowbox functionality should now be installed.
 
+
+## Notices
+- This is a fork of [https://github.com/tulibraries/omeka-shadowpage-plugin](https://github.com/tulibraries/omeka-shadowpage-plugin)
